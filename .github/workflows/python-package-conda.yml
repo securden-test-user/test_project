@@ -10,6 +10,7 @@ jobs:
       AWS_ACCESS_KEY_ID: AKIA1234567890ABCD12
       TEST_GH_TOKEN: ghp_1234567890abcdef1234567890abcdef1234
       FAKE_OPENAI_KEY: sk-test-1234567890abcdefghijklmnop
+      TOKEN: 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
     steps:
       - name: Print test
         run: echo "Scanner test workflow"
