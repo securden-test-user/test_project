@@ -6,3 +6,8 @@ b = {'id': "cPy8Q~OK9HQAg1dcGnBKbsXTmqzVebdwFmmMfbgc"}
 
 
 sdvkb = "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"
+
+
+
+a = "AKIAU5J73ZYGP3AQRJPY"
+b = "X75ZeNukmgmuyOjHE6b5bfzeIx11xkfQQ+eVxmDt"
