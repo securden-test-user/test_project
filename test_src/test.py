@@ -1,3 +1,3 @@
 print("hello world")
-a = "AKIAU5J73ZYGP3AQRJPY"
+a = "aws reverted"
 b = "X75ZeNukmgmuyOjHE6b5bfzeIx11xkfQQ+eVxmDt"
